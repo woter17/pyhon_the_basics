@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    background-color: aqua;
+    margin: 50px;
+    padding: 20px;
+    padding-left: 30px;
+}
+
+body {
+    background-color: #f0f0f0f0;
+}
+
+#first {
+    background-color: blue;
+}
+
+.exclamation-point {
+    font-size: 30pt;
+}
